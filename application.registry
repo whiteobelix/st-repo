@@ -1,4 +1,3 @@
-App: RoomManagerApp
 Controllers: MainController
-Windows:
-WebServices: RoomsWebSerwice
+Windows: ConfigurationWindow
+WebServices: Rooms App Manager, RoomsWebSerwice
